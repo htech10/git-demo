@@ -1,3 +1,4 @@
+
 #README FILE
 
 This is sample readme file for git-demo project
@@ -10,3 +11,6 @@ using option -am
 
 #Adding new file
 adding blog.html to the project
+
+#Modifying multiple files
+README and blog updated

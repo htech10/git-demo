@@ -7,3 +7,6 @@ You can modify an existing file
 
 #Comment to show how to add and commit in same line
 using option -am
+
+#Adding new file
+adding blog.html to the project

@@ -1,0 +1,11 @@
+#ignore releasnotes.txt
+releasenotes.txt
+
+#ignore target directory contents
+target/*
+
+#ignore logs directory and contents inside
+logs/
+
+#ignore any file with .log extension
+*.log
